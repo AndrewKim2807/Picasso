@@ -1,8 +1,6 @@
 <h1 align="center">Picasso</h1>
   <h3 align="center">Machine Learning Image Classification Model</h3>
 
-"Picasso" is a machine learning image classification model. At its core, the CNN architecture is intricately designed, achieving a remarkable pattern recognition capability. The training and evaluation rigorously validate the model, evidenced by an outstanding accuracy of 99.22%.
-
 </div>
 
 <br/>
@@ -16,3 +14,5 @@
 </div>
 
 <br/>
+
+"Picasso" is a machine learning image classification model. At its core, the CNN architecture is intricately designed, achieving a remarkable pattern recognition capability. The training and evaluation rigorously validate the model, evidenced by an outstanding accuracy of 99.22%.
