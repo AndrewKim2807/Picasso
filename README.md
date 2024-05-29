@@ -16,3 +16,20 @@
 <br/>
 
 "Picasso" is a machine learning image classification model. At its core, the CNN architecture is intricately designed, achieving a remarkable pattern recognition capability. The training and evaluation rigorously validate the model, evidenced by an outstanding accuracy of 99.22%.
+
+## Libraries
+1. **split-folders** (To split the datasets into training and validation sets)
+2. **zipfile** (To work with ZIP archives, such as file extraction)
+3. **os** (Provides function for interacting with the operating system)
+4. **shutil** (Offers high-level operations on files and collection of files)
+5. **numpy** (For scientific computing)
+6. **matplotlib** (For plotting visualizations)
+7. **tensorflow** *(Every coder def. knows what this is)*
+8. **sklearn** (For model evaluation)
+
+## CNN
+
+1. Convolutional Layer
+2. Pooling Layer
+3. Fully Connected Layer
+4. Activation Functions
